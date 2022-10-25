@@ -3,7 +3,7 @@
 **The API provides an array of questions, a correct answer, and incorrect options array.**<br/>
 
 **Motive: Create a quiz app**<br/>
-**Rules<br/>
+**Rules**<br/>
 **1) The correct option should be positioned in a random option number.**<br/>
 **2) Once selected the option can't be changed.**<br/>
 **3) Correct option is 5 marks, and the wrong option is -1.**<br/>
