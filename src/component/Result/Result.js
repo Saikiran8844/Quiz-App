@@ -1,6 +1,6 @@
 import React, {Fragment} from 'react';
 
-export default function (props){
+export default function Result(props){
   let text;
   if(props.pass){
     text = <Fragment>
